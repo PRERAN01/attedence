@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-transform: capitalize;
+}
+#back{
+    height: 150px;
+}
+.conn{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 170px;
+    width: 100%;
+    background-color: lightblue;
+    
+}
+.con1{
+    background-color: lightblue;
+    
+    height: 50vh;
+    width: 100%;
+    
+}
